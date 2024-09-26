@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/serhatkarabiyik/CICD_exercice2/issues"
   },
-  "homepage": "https://github.com/serhatkarabiyik/CICD_exercice2#readme"
+  "homepage": "https://github.com/serhatkarabiyik/CICD_exercice2#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
