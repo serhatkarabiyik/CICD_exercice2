@@ -1,0 +1,19 @@
+{
+  "name": "cicd_exercice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhatkarabiyik/CICD_exercice2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serhatkarabiyik/CICD_exercice2/issues"
+  },
+  "homepage": "https://github.com/serhatkarabiyik/CICD_exercice2#readme"
+}
